@@ -1,0 +1,13 @@
+title: Strats.co
+description: Family Star Wars adventures with our 2 boys at Disneyland, Walt Disney World, Star Wars Celebration, &amp; more!
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
+
+#repository: hlaueriksson/jekyll-url-shortener
